@@ -1,0 +1,8 @@
+services:
+  portfolio:
+    build: .
+    container_name: cv_portfolio_app
+    ports:
+      - "8080:80"
+    restart: always
+
