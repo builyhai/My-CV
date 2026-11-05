@@ -1,7 +1,0 @@
-.git
-*.docx
-*.zip
-Dockerfile
-.dockerignore
-docker-compose.yml
-
